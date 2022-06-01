@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hasan Koçal</h1>
 <h3 align="center">Mid-Level React-Native Developer</h3>
 
-- 📝 I regularly write articles on [hasankocal.com/blog](hasankocal.com/blog)
-
 - 💬 Ask me about **React.Js, React-Native**
 
 - 📫 How to reach me **hasannkocal@gmail.com**
