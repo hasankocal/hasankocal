@@ -79,19 +79,6 @@ Merhaba! Ben **Hasan Koçal**, modern web teknolojileri konusunda tutkulu bir **
 - **Mobile Apps** - React Native uygulamaları
 - **API Development** - RESTful ve GraphQL API'ları
 
----
-
-## 📊 GitHub İstatistiklerim
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasankocal&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasankocal&theme=radical&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakNum=FFFFFF&currStreakLabel=6366F1&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasankocal&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" alt="Top Languages" />
-</div>
 
 ---
 
@@ -167,12 +154,6 @@ Yeni projeler, freelance işler veya sadece teknoloji hakkında sohbet etmek iç
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=50&lines=Let's+create+something+amazing+together!;Ready+to+turn+your+ideas+into+reality!" alt="Typing SVG" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hasankocal&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
