@@ -1,4 +1,4 @@
-# 🧙‍♂️ Hasan Kocal - JavaScript Magician
+# 🧙‍♂️ Hasan Koçal - JavaScript Magician
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;JavaScript+Magician;React+Wizard;Node.js+Enthusiast;Problem+Solver" alt="Typing SVG" />
@@ -15,7 +15,7 @@
 
 ## 🚀 Hakkımda
 
-Merhaba! Ben **Hasan Kocal**, modern web teknolojileri konusunda tutkulu bir **Full Stack Developer**'ım. JavaScript ekosisteminde büyülü çözümler yaratmayı seviyorum ve kullanıcı deneyimini en üst düzeye çıkaran yenilikçi projeler geliştiriyorum.
+Merhaba! Ben **Hasan Koçal**, modern web teknolojileri konusunda tutkulu bir **Full Stack Developer**'ım. JavaScript ekosisteminde büyülü çözümler yaratmayı seviyorum ve kullanıcı deneyimini en üst düzeye çıkaran yenilikçi projeler geliştiriyorum.
 
 ### 🎯 Uzmanlık Alanlarım
 - **Frontend Development** - React, Vue.js, Modern JavaScript
